@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DStudio</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <nav>
+        <div class="logo">
+            <span class="logo-white">D</span><span class="logo-cyan">Studio</span>
+        </div>
+        <ul class="nav-links">
+            <li><a href="../index.html">Müşteri Sayfası</a></li>
+        </ul>
+    </nav>
+
+    <section class="services-section">
+        <h2 class="section-title">🚀 Hizmetlerimiz (Admin)</h2>
+        <p style="text-align: center; margin-bottom: 50px; font-size: 1.1em; color: white;">
+            Buradan tüm maliyetleri ve detayları görebilirsiniz.
+        </p>
+
+        <div class="services-grid" id="servicesGrid"></div>
+    </section>
+
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title" id="modalTitle"></h2>
+                <button class="close-btn" onclick="closeModal()">&times;</button>
+            </div>
+            <div id="modalBody"></div>
+        </div>
+    </div>
+
+    <script src="../script.js"></script>
+</body>
+</html>

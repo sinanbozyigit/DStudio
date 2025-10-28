@@ -1,0 +1,156 @@
+[
+    {
+        "id": 1,
+        "icon": "🌐",
+        "title": "Web Site Oluşturma",
+        "description": "Modern, responsive ve SEO uyumlu web siteleri. Kurumsal kimliğinize özel tasarım ve geliştirme hizmeti.",
+        "customerPrice": "5000",
+        "costs": [
+            {
+                "item": "Domain",
+                "amount": "150"
+            },
+            {
+                "item": "Hosting (Yıllık)",
+                "amount": "800"
+            },
+            {
+                "item": "SSL Sertifikası",
+                "amount": "200"
+            },
+            {
+                "item": "Tasarım & Geliştirme",
+                "amount": "2500"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "icon": "📸",
+        "title": "Özel Çekim Hizmetleri",
+        "description": "Profesyonel fotoğraf ve video çekimi, drone görüntüleme, video editing ve post-production hizmetleri.",
+        "customerPrice": "3500",
+        "costs": [
+            {
+                "item": "Ekipman Kiralama",
+                "amount": "600"
+            },
+            {
+                "item": "Drone Çekimi",
+                "amount": "400"
+            },
+            {
+                "item": "Video Editing Yazılımı",
+                "amount": "150"
+            },
+            {
+                "item": "Profesyonel Ekip",
+                "amount": "1200"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "icon": "📱",
+        "title": "Mobil Uygulama",
+        "description": "iOS ve Android için native veya cross-platform mobil uygulama geliştirme. Kullanıcı dostu arayüz tasarımı.",
+        "customerPrice": "15000",
+        "costs": [
+            {
+                "item": "Developer License",
+                "amount": "1200"
+            },
+            {
+                "item": "Backend Sunucu",
+                "amount": "1500"
+            },
+            {
+                "item": "API Entegrasyonları",
+                "amount": "800"
+            },
+            {
+                "item": "Geliştirme & Test",
+                "amount": "7000"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "icon": "🎨",
+        "title": "Grafik Tasarım",
+        "description": "Logo tasarımı, kurumsal kimlik, sosyal medya görselleri, broşür ve katalog tasarım hizmetleri.",
+        "customerPrice": "2000",
+        "costs": [
+            {
+                "item": "Tasarım Yazılımları",
+                "amount": "250"
+            },
+            {
+                "item": "Stock Görseller",
+                "amount": "150"
+            },
+            {
+                "item": "Font Lisansları",
+                "amount": "100"
+            },
+            {
+                "item": "Tasarımcı Ücreti",
+                "amount": "1000"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "icon": "🛒",
+        "title": "E-Ticaret Sitesi",
+        "description": "Ödeme sistemleri entegre, stok yönetimi ve kargo entegrasyonlu profesyonel e-ticaret platformu.",
+        "customerPrice": "12000",
+        "costs": [
+            {
+                "item": "Domain & Hosting",
+                "amount": "1500"
+            },
+            {
+                "item": "SSL & Güvenlik",
+                "amount": "500"
+            },
+            {
+                "item": "Ödeme Sistemi Entegrasyonu",
+                "amount": "800"
+            },
+            {
+                "item": "E-Ticaret Yazılımı",
+                "amount": "2000"
+            },
+            {
+                "item": "Geliştirme & Kurulum",
+                "amount": "4000"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "icon": "📊",
+        "title": "Dijital Pazarlama",
+        "description": "SEO, Google Ads, sosyal medya yönetimi ve içerik pazarlama stratejileri ile marka bilinirliğinizi artırın.",
+        "customerPrice": "4000",
+        "costs": [
+            {
+                "item": "Reklam Araçları",
+                "amount": "400"
+            },
+            {
+                "item": "Analytics Platformları",
+                "amount": "200"
+            },
+            {
+                "item": "İçerik Üretimi",
+                "amount": "800"
+            },
+            {
+                "item": "Sosyal Medya Yönetimi",
+                "amount": "1200"
+            }
+        ]
+    }
+]
